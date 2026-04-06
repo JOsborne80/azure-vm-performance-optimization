@@ -3,6 +3,8 @@
 ## Overview
 This project simulates a real-world customer cloud environment in Microsoft Azure. The goal was to deploy a virtual machine, monitor performance using Azure Monitor, identify inefficiencies, and provide business-focused optimization recommendations.
 
+**This project demonstrates the ability to bridge technical troubleshooting with customer-focused solutions, aligning cloud performance with business outcomes.**
+
 ---
 
 ## Environment Setup
@@ -16,9 +18,10 @@ This project simulates a real-world customer cloud environment in Microsoft Azur
 ## Monitoring & Analysis
 Using Azure Monitor, CPU utilization was analyzed over time.
 
-### Key Observation:
-- Sustained CPU usage between 80–85%
-- Performance fluctuations indicating instability
+### Key Observations:
+- Sustained high CPU utilization (~80–85%) indicating resource strain
+- Noticeable performance fluctuation suggesting instability under load
+- Decrease in CPU usage following workload change, highlighting lack of dynamic scaling
 
 ---
 
