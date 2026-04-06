@@ -74,3 +74,13 @@ The virtual machine experienced high CPU utilization, which could lead to perfor
 
 #### CPU Variation / Performance Fluctuation
 ![CPU Variation](11-cpu-variation.png)
+
+
+---
+
+## Key Skills Demonstrated
+- Azure Virtual Machines (VM Deployment)
+- Azure Monitor & Metrics Analysis
+- Cloud Performance Optimization
+- Incident Analysis & Troubleshooting
+- Technical-to-Business Communication
