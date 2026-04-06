@@ -65,4 +65,9 @@ The virtual machine experienced high CPU utilization, which could lead to perfor
 ![VM Overview](09-vm-resource-overview.png)
 
 ### Monitoring
-![CPU Metrics](10-cpu-baseline.png)
+
+#### CPU Baseline
+![CPU Baseline](10-cpu-baseline.png)
+
+#### CPU Variation / Performance Fluctuation
+![CPU Variation](11-cpu-variation.png)
